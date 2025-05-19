@@ -1,3 +1,6 @@
+Hello! This is a change for testing the interaction between the main and forked branches from this repository! Did it work, Jacob?
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
